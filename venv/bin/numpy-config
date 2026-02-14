@@ -1,4 +1,4 @@
-#!/workspaces/mediapipe_project/venv/bin/python3
+#!/Users/danielcao/mediapipe_project/venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
